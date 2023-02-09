@@ -10,6 +10,8 @@
 
 # Ice Factory Outfitters Site Navigation 
 
+## File Structure
+
 ## Home Screen 
 - The home screen holds all of our product categories with clickable icons which redirect a user to each individual product category page.  
 - At the top of the page, there is a zamboni icon in the top right which will redirect the user to the cart, a login/register link for exisintg users to login and new users to register, and the Ice Factory logo in the top left will redirect users back to the home page. 
