@@ -9,5 +9,4 @@ const DB_URL =
 const client = new Client(DB_URL);
 
 
-
 module.exports = client;
